@@ -1,1 +1,2 @@
 
+Descargue el compilador MinGW
